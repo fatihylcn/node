@@ -1,0 +1,22 @@
+{
+  "proxy": "http://127.0.0.1:5500",
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is the data selfie app by Fatih Yalçın",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "Fatih Yalçın",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
